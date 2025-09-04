@@ -136,12 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Untitled.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Untitled"
             }
           }
         ]
@@ -162,6 +163,13 @@
       "bases:Create new base": false
     }
   },
-  "active": "aff851e322a4311a",
-  "lastOpenFiles": []
+  "active": "5f0c33810381a3ec",
+  "lastOpenFiles": [
+    "CS-107",
+    "Phys-101",
+    "CS-101",
+    "Math-111",
+    "Math-101",
+    "Untitled.md"
+  ]
 }
