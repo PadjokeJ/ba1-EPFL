@@ -11,13 +11,32 @@
             "id": "aff851e322a4311a",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "Intro/STCC Welcome.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "STCC Welcome"
+            }
+          },
+          {
+            "id": "3aed2b44160e5374",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro/STCC Welcome.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "STCC Welcome"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -163,14 +182,15 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f0c33810381a3ec",
+  "active": "3aed2b44160e5374",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Intro/STCC Welcome.md",
     "Intro",
     "CS-107",
     "Phys-101",
     "CS-101",
     "Math-111",
-    "Math-101",
-    "Untitled.md"
+    "Math-101"
   ]
 }
