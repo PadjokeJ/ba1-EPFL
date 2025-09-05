@@ -53,3 +53,5 @@ Local AGEPoly en local 0351
 Coachs dispo pour soutien pour cours et moral
 Evenements aussi
 Coachs font découvrir secrets epfl
+
+next [[tour campus]]
