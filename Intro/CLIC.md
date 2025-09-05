@@ -7,18 +7,17 @@ assoc informatique
 
 ## 1e semestre
 
-HW5 Sep 16 jeux
-Subsonic Nov 13
-Chaque mois : distrib de bouffe
+HW5 Sep 16 jeux  
+Subsonic Nov 13  
+Chaque mois : distrib de bouffe  
 ## 2e semestre
 
-Souper de fac
-PastIC (festival balélec)
-IC Boost day
-
+Souper de fac  
+PastIC (festival balélec)  
+IC Boost day  
 ### Commissions
 
-ORBITAL GAME JAM
-Polyglot = cyber sec (CTF)
+ORBITAL GAME JAM  
+Polyglot = cyber sec (CTF)  
 
 Next [[Coaching IC]]

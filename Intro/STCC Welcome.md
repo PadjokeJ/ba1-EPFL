@@ -39,7 +39,7 @@ Plus aucune place après 7h
 - Restauration
 - [[#AGEPoly]]
 
-## AGEPoly
+## [AGEPoly](agepoly.md)
 
 - Coordination delegués classe
 - Middleman Etudiants -> Direction

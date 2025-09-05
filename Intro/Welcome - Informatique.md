@@ -27,35 +27,33 @@ Ne pas s'inscrire à un cour => échec
 - Pratique programmation orientée objet
 ## 3E année, possibilité de faire un échange
 
-Requis, note de 1e
-Europe : 4.5 de moyene ou plus
-Hors-Europe : 5.0 de moyenne ou plus
-
+Requis, note de 1e  
+Europe : 4.5 de moyene ou plus  
+Hors-Europe : 5.0 de moyenne ou plus  
 ## Documents importants
 
-[polylex](https://go.epfl.ch/polylex)
-[Plan d'étude](https://www.epfl.ch/education/studies/reglement-et-procedure/plans_etudes/)
+[polylex](https://go.epfl.ch/polylex)  
+[Plan d'étude](https://www.epfl.ch/education/studies/reglement-et-procedure/plans_etudes/)  
 ## Respect !
 
 [Trust support network](https://go.epfl.ch/tsn)
 ## L'anglais
 
-Pour arriver au master il faut un niveau B2 minimum (recommandé, pas testé)
-Master uniquement en anglais
-[https://langues.epfl.ch](https://langues.epfl.ch)
+Pour arriver au master il faut un niveau B2 minimum (recommandé, pas testé)  
+Master uniquement en anglais  
+[https://langues.epfl.ch](https://langues.epfl.ch)  
 ## Formalités !!
 
-Attestations
-Certificats médicaux
-Mise en congé (armée, maladie, etc...)
+Attestations  
+Certificats médicaux  
+Mise en congé (armée, maladie, etc...)  
 
-[Consulter site de réglements](https://sac.epfl.ch)
+[Consulter site de réglements](https://sac.epfl.ch)  
 
-Faire attention au calendrier académique 
+Faire attention au calendrier académique  
 
-[A effectuer sur is academia](https://isa.epfl.ch)
-
--> Formulaire de réinscription académique ==APRES CHAQUE SEMESTRE==
+[A effectuer sur is academia](https://isa.epfl.ch)  
+-> Formulaire de réinscription académique ==APRES CHAQUE SEMESTRE==  
 ## aménagement des études
 
 [Aménagements (dyslexie, tdah etc)](https://go.epfl.ch/amenagements-cours-examens)
@@ -63,10 +61,10 @@ Faire attention au calendrier académique
 
 ### Email
 
-==à consulter chaque jour==
+==à consulter chaque jour==  
 
 ### Moodle
 
-Cours etc...
+Cours etc...  
 
-next [[agepoly]]
+next [[agepoly]]  
