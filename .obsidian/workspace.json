@@ -58,9 +58,37 @@
               "icon": "lucide-git-fork",
               "title": "Graph view"
             }
+          },
+          {
+            "id": "8655f0932c3f8f7f",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
+          },
+          {
+            "id": "c5578501261106cc",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Intro.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Intro"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "vertical"
@@ -206,15 +234,17 @@
       "bases:Create new base": false
     }
   },
-  "active": "4f4b9eda1d3eae53",
+  "active": "5f0c33810381a3ec",
   "lastOpenFiles": [
+    "Intro.md",
+    "laTex formatting cheat sheet.md",
+    "0. Preliminaries.md",
     "Intro/tour campus.md",
     "Intro/STCC Welcome.md",
     "Intro/CLIC.md",
     "Intro/Coaching IC.md",
     "Intro/agepoly.md",
     "Intro/Welcome - Informatique.md",
-    "Untitled.md",
     "Intro",
     "CS-107",
     "Phys-101",
