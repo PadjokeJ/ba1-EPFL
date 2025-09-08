@@ -38,4 +38,4 @@ There will be special exercices which will be checked
 		 $\implies b^2 = 3r^2$ 
 		 $\implies \text{3|b}$
 		 $\implies \text{a and b are not prime}$
-The statement is therefore not true : $\sqrt{3}$ 
+The statement is therefore not true : $\sqrt{3}$  is not rational
