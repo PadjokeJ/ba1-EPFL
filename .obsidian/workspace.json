@@ -65,12 +65,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro.md",
+                "file": "Math-101/00 Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "00 Intro"
             }
           },
           {
@@ -79,12 +79,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Intro.md",
+                "file": "Math-101/00 Intro.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Intro"
+              "title": "00 Intro"
             }
           }
         ],
@@ -236,9 +236,9 @@
   },
   "active": "5f0c33810381a3ec",
   "lastOpenFiles": [
-    "Intro.md",
+    "Math-101/0. Preliminaries.md",
+    "Math-101/00 Intro.md",
     "laTex formatting cheat sheet.md",
-    "0. Preliminaries.md",
     "Intro/tour campus.md",
     "Intro/STCC Welcome.md",
     "Intro/CLIC.md",
