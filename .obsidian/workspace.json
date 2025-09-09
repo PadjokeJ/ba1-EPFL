@@ -4,58 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "505aeaa9325feb1a",
+        "id": "5ad02cde9166e8b6",
         "type": "tabs",
         "children": [
           {
-            "id": "dd24a6b77f242f0b",
+            "id": "a638147c141d1964",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Phys-101/00.2 Trigonometry.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.2 Trigonometry"
-            }
-          },
-          {
-            "id": "f770e1a7954880d5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys-101/00.3-4 Functions.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "00.3-4 Functions"
-            }
-          },
-          {
-            "id": "1414b181277f4f90",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys-101/Intro.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Intro"
-            }
-          },
-          {
-            "id": "b0612eb9e15bed49",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "CS-101/00.0 Introduction.md",
+                "file": "Math-111/00.0 Introduction.md",
                 "mode": "source",
                 "source": false
               },
@@ -64,21 +22,21 @@
             }
           },
           {
-            "id": "0a3d21cd455a9dde",
+            "id": "baab9f475e538578",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-101/00.1 Propositional Logic.md",
+                "file": "Math-111/01 Systèmes d'équations linéaires.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.1 Propositional Logic"
+              "title": "01 Systèmes d'équations linéaires"
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -224,16 +182,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "0a3d21cd455a9dde",
+  "active": "baab9f475e538578",
   "lastOpenFiles": [
-    "CS-101/00.0 Introduction.md",
+    "Math-111/eqlin1.png",
+    "Math-111/01 Systèmes d'équations linéaires.md",
+    "Math-111/00.0 Introduction.md",
+    "Intro/CLIC.md",
+    "Untitled.base",
     "CS-101/00.1 Propositional Logic.md",
+    "CS-101/00.0 Introduction.md",
     "Phys-101/Intro.md",
+    "Phys-101/00.3-4 Functions.md",
     "Phys-101/00.2 Trigonometry.md",
     "Phys-101/00.1 Vectors.md",
     "Phys-101/00 Units.md",
-    "Phys-101/00.3-4 Functions.md",
-    "Intro/CLIC.md",
     "00.1.md",
     "Math-101/00 Intro.md",
     "Math-101/0. Preliminaries.md",
