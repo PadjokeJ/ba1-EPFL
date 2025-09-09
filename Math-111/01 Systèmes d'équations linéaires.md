@@ -32,6 +32,8 @@ Exo :
 
 ### équations et variables
 
+Système d'équations linéaires
+
 a $m$ équations (en gros le nombre de lignes)  
 a $n$ variables ($x_n$)                                               
 	-> $a_{mn}$, $b_m$ 
@@ -54,4 +56,109 @@ La solution $S = \{(s_1, ..., s_n), ..., (\dot s_1, ..., \dot s_n)\}$
 	Le nombre de listes dans $S$ indique le nombre de solutions
 
 
+## Equations à deux inconnues
 
+est de la forme $ax + by = c$ | $a$, $b$, $c$ $\in \mathbb{R}$
+
+$ax + by = c$ peut être représentée par une droite dans le plan $\mathbb{R}^2$ 
+
+donc avec 2 inconnues on peut le représenter par une collection de droites. 
+Solution = point d'intersection de toutes les droites
+
+> [!Info] Point d'intersection étant un point commun aux droites
+
+## Equation à trois inconnues
+
+de la forme $ax + by + cz = d$ | $a$, $b$, $c$, $d$ $\in \mathbb{R}$
+
+Peut être représentée dans le plan $\mathbb{R}^3$ par des plans à deux dimensions (sys d'axe à trois dimensions)
+
+Solution = point d'intersections de tous les plans
+
+Si les plans 2D se croisent sur une droite, il y a un nombre infini de solutions
+
+--- 
+
+On constate que dans les deux types d'équations, l'ensemble des solutions est soit: 
+- l'ensemble vide
+- un nombre infini de solution
+- une seule solution
+
+### Démonstration : 
+
+Théorème : Un système d'équations linéaires à $n$ innconnues à coeffs. réels satisfait à l'une de ces trois conditions: 
+1. il n'y a aucune solutions
+2. il y a un nombre infini de solutions
+3. il n'y a qu'un seule solution
+
+Preuve : Il suffit de voir que si le système possède deux solutions, alors il en possède une infinité.  (? what) (PS : ah ok, its for linear equations with more than 2 dimensions, this makes sense)
+
+Soient $(a_1, ... , a_n)$ et $(b_1, ..., b_n)$ deux solutions du système
+
+On considère $a_{i1}x + ... + a_{in}x = b_i$
+On a 
+$a_{i1}\alpha_1 + a_{i2}\alpha_2 + ... + a_{in}\alpha_n$
+$-(a_{i1}\beta_1 + a_{i2}\beta_2 + ... + a_{in}\beta_n)$
+--- 
+$a_{i1}(\alpha_1 - \beta_1) + a_{i2}(\alpha_2 - \beta_2) + ... + a_{in}(\alpha_n - \beta_n) = 0$ 
+
+> [!Warning]
+> Incomplete ! go watch [this video](https://app.courseware.epfl.ch/learning/course/course-v1:EPFL+Algebre123+2025/block-v1:EPFL+Algebre123+2025+type@sequential+block@b01b380fb7ff4e2da97431d15a089f0e/block-v1:EPFL+Algebre123+2025+type@vertical+block@eff19aeb86474ca78c74f703029073cc)
+
+
+## Opérations élémentaires
+
+>[!Hint] **Rappel :** $S$ est l'ensemble de solution d'un sys. d'eq. lin.
+
+1. Permutation de deux équations dans le système
+	- On obtient un nouveau système $s'$ avec deux équations échangées
+	- Une solution du système $s$ est également une solution du système $s'$ 
+	- $S=S'$
+2. Multiplier toute une équation par un réel non nul (donc multiplier tous les coefficients)
+	- On obtient un nouveau système $s''$ où une équation est mutlipliée par un entier
+	- Une solution du système $s$ est également une solution du système $s''$ 
+	- $S = S''$
+3. On rajoute à une équation un multiple d'une autre 
+	- On obtient un nouveau système $s'''$ avec une équation $l_i$ + $\lambda l_j$ 
+	- Une solution du système $s$ est également une solution du système $s'''$
+	- $S = S'''$ 
+On peut combiner ces trois opérations pour trouver les solutions du premier système d'éq lin
+
+# Matrices
+
+Un tableau rectangulaire avec $a_{ij} \in \mathbb{R}$
+s'appelle une matrice $m\times n$ à coefficients réels
+
+>[!Info] $m$ lignes, $n$ colonnes
+
+
+$m \times n$ : taille
+$a_{ij}$ = coeff à l'intersection de la $i$ ^e ligne et $j$ ^e colonne
+$A = a_{ij}$
+
+Soient $A$ et $B$ deux matrices.  
+$A = B$ $\iff$ $m_B = m_A$ et pour tout $i, j$, $a_{ij}=b_{ij}$  
+Soit un sys d'eq. lin. avec $n$ inconnus et $m$ équations
+On associe *la matrice des coeffs.*  $$ A=\left(\begin{matrix}
+a_{11} & ... & a_{1n} \\
+\vdots & \ddots & \vdots \\
+a_{m1} & ... & a_{mn} \\
+\end{matrix}\right)$$
+On associes *la matrice augmentée* $$ A=
+\left(\begin{array}{ccc|c}
+a_{11} & ... & a_{1n} & b_1 \\
+\vdots & \ddots & \vdots & b_i \\
+a_{m1} & ... & a_{mn} & b_m \\
+\end{array}\right)$$
+On indique l'[opération élémentaire](#Opérations%20élémentaires) qu'on fait sur une flèche "$\to$" entre les matrices, du style :
+1. $L_i \leftrightarrow L_j$ 
+2. $L_i = \lambda L_j$
+3. $L_i = \lambda L_j + L_i$ 
+
+
+## Matrices échelonnées
+
+soit une matrice $A$ 
+$A$ est échelonnée si : 
+- le premier coeff. non nul dans la ligne $i+1$  doit se trouver à droite du premier coeff. non nul dans la ligne $i$ --> Pivot
+- 
