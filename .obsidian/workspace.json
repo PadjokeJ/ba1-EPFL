@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math-111/01 Systèmes d'équations linéaires.md",
+                "file": "Math-111/00.0 Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01 Systèmes d'équations linéaires"
+              "title": "00.0 Introduction"
             }
           }
         ],
@@ -184,8 +184,8 @@
   },
   "active": "baab9f475e538578",
   "lastOpenFiles": [
-    "Math-111/eqlin1.png",
     "Math-111/01 Systèmes d'équations linéaires.md",
+    "Math-111/eqlin1.png",
     "Math-111/00.0 Introduction.md",
     "Intro/CLIC.md",
     "Untitled.base",
