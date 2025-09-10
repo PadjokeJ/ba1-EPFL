@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-101/00.1 Propositional Logic.md",
+                "file": "Math-101/01.1 Preliminaries.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "00.1 Propositional Logic"
+              "title": "01.1 Preliminaries"
             }
           }
         ],
@@ -184,11 +184,11 @@
   },
   "active": "baab9f475e538578",
   "lastOpenFiles": [
+    "CS-101/01.1 Propositional Logic.md",
+    "Math-101/01.1 Preliminaries.md",
     "Math-111/01 Systèmes d'équations linéaires.md",
     "CS-101/00.0 Introduction.md",
-    "CS-101/00.1 Propositional Logic.md",
     "Math-111/00.0 Introduction.md",
-    "Math-101/0. Preliminaries.md",
     "Math-111/eqlin1.png",
     "Intro/CLIC.md",
     "Untitled.base",
