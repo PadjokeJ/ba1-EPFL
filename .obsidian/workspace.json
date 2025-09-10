@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#as",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -89,7 +89,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -182,7 +183,7 @@
       "bases:Create new base": false
     }
   },
-  "active": "baab9f475e538578",
+  "active": "8c173265b859dc41",
   "lastOpenFiles": [
     "CS-101/01.1 Propositional Logic.md",
     "Math-101/01.1 Preliminaries.md",
