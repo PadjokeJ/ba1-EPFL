@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-101/01.1 Propositional Logic.md",
+                "file": "Math-111/01 Systèmes d'équations linéaires.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.1 Propositional Logic"
+              "title": "01 Systèmes d'équations linéaires"
             }
           }
         ],
@@ -198,8 +198,8 @@
   },
   "active": "55a464543b9ca535",
   "lastOpenFiles": [
-    "Pasted image 20250910154532.png",
     "CS-101/01.1 Propositional Logic.md",
+    "Pasted image 20250910154532.png",
     "CS-107/00.0 Introduction.md",
     "Math-101/01.1 Preliminaries.md",
     "Phys-101/00.3-4 Functions.md",

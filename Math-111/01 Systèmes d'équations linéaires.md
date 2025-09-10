@@ -161,4 +161,26 @@ On indique l'[opération élémentaire](#Opérations%20élémentaires) qu'on fai
 soit une matrice $A$ 
 $A$ est échelonnée si : 
 - le premier coeff. non nul dans la ligne $i+1$  doit se trouver à droite du premier coeff. non nul dans la ligne $i$ --> Pivot
-- 
+- toute ligne nulle (tout $a_{ij} = 0$) n'est suivie que d'autres lignes nulles
+
+>[!example]- Exemple
+ >$$ A=\left(\begin{matrix} 1 & 1 & 3 \\ 0 & 2 & 4 \\ 0 & 0 &   \\ \end{matrix}\right)$$
+### Matrice échelonnée réduite
+
+$A$ est échelonnée réduite si :
+- chaque pivot est égal à $1$
+- le seul coeff. non nul dans une colonne est le pivot de la colonne
+
+>[!Example]- Exemple
+ >$$A=\left(\begin{matrix} 1 & 0 & 3 \\ 0 & 1 & 4 \\ 0 & 0 & 0 \\ \end{matrix}\right)$$
+
+### résolution d'un sys d'eq avec une matrice
+
+En échelonnant une matrice associée à un système d'équations, on peut facilement trouver une solution au systeme.
+
+Il est plus facile de résoudre avec une matrice échelonnée réduite, car chaque pivot vaut une valeur de la dernière colonne
+
+
+>[!Hint] Remarque
+>On échelonne une matrice en utilisant les [[#Opérations élémentaires]]
+
