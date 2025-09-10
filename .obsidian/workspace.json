@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#as",
+                "query": "tag:#ordered",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -183,10 +183,11 @@
       "bases:Create new base": false
     }
   },
-  "active": "8c173265b859dc41",
+  "active": "baab9f475e538578",
   "lastOpenFiles": [
     "CS-101/01.1 Propositional Logic.md",
     "Math-101/01.1 Preliminaries.md",
+    "Phys-101/00.3-4 Functions.md",
     "Math-111/01 Systèmes d'équations linéaires.md",
     "CS-101/00.0 Introduction.md",
     "Math-111/00.0 Introduction.md",
@@ -194,7 +195,6 @@
     "Intro/CLIC.md",
     "Untitled.base",
     "Phys-101/Intro.md",
-    "Phys-101/00.3-4 Functions.md",
     "Phys-101/00.2 Trigonometry.md",
     "Phys-101/00.1 Vectors.md",
     "Phys-101/00 Units.md",
