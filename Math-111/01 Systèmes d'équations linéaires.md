@@ -176,7 +176,7 @@ $A$ est échelonnée réduite si :
 
 ### résolution d'un sys d'eq avec une matrice
 
-En échelonnant une matrice associée à un système d'équations, on peut facilement trouver une solution au systeme.
+En échelonnant une matrice associée à un système d'équations, on peut facilement trouver une solution au systeme. en déclarant un $x_n$ à une variable arbitraire $r$, et autres si besoin
 
 Il est plus facile de résoudre avec une matrice échelonnée réduite, car chaque pivot vaut une valeur de la dernière colonne
 
