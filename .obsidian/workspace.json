@@ -8,63 +8,20 @@
         "type": "tabs",
         "children": [
           {
-            "id": "e02593eb312e87e6",
+            "id": "1354e3b5a58b450e",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-101/exercises/01.md",
+                "file": "CS-101/01.1 Propositional Logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01"
-            }
-          },
-          {
-            "id": "be7deac02ce30472",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys-101/01.1-2 Position velocity acceleration and trajectory.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.1-2 Position velocity acceleration and trajectory"
-            }
-          },
-          {
-            "id": "a9ded4cbc0e75c61",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys-101/01.3 Cartesian coordinates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.3 Cartesian coordinates"
-            }
-          },
-          {
-            "id": "d67ed0d86ed69754",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Phys-101/01.4 Polar coordinates.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.4 Polar coordinates"
+              "title": "01.1 Propositional Logic"
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "vertical"
@@ -210,38 +167,40 @@
       "bases:Create new base": false
     }
   },
-  "active": "5f0c33810381a3ec",
+  "active": "1354e3b5a58b450e",
   "lastOpenFiles": [
-    "Phys-101/Pasted image 20250913122815.png",
+    "Math-111/01 Systèmes d'équations linéaires.md",
+    "Math-111/01.6 Elimination de Gauss.md",
+    "Math-111/01.7 Résolutions de systèmes linéaires.md",
+    "Phys-101/00.3-4 Functions.md",
+    "Phys-101/00.2 Trigonometry.md",
     "Phys-101/01.3 Cartesian coordinates.md",
-    "Phys-101/01.4 Polar coordinates.md",
-    "Phys-101/00.0 Units.md",
-    "Phys-101/01.1-2 Position velocity acceleration and trajectory.md",
-    "Phys-101/00.1 Vectors.md",
     "Phys-101/Intro.md",
+    "Phys-101/00.1 Vectors.md",
+    "Phys-101/00.0 Units.md",
+    "Phys-101/01.4 Polar coordinates.md",
+    "Phys-101/Pasted image 20250913122815.png",
+    "Phys-101/01.1-2 Position velocity acceleration and trajectory.md",
+    "Math-111/01.8 Système homogène.md",
+    "Math-111/00.0 Introduction.md",
+    "01 Systèmes d'équations linéaries.md",
+    "01 Systèmes d'équations.md",
+    "Math-111/eqlin1.png",
     "CS-101/exercises/01.md",
+    "Untitled",
     "CS-101/01.1 Propositional Logic.md",
     "CS-101/00.0 Introduction.md",
-    "Math-111/01 Systèmes d'équations linéaires.md",
     "CS-101/exercises/IMG_0398.jpeg",
     "Math-101/01.1 Preliminaries.md",
-    "Math-111/00.0 Introduction.md",
     "CS-101/exercises",
     "Pasted image 20250910154532.png",
     "CS-107/00.0 Introduction.md",
-    "Phys-101/00.3-4 Functions.md",
-    "Math-111/eqlin1.png",
     "Intro/CLIC.md",
     "Untitled.base",
-    "Phys-101/00.2 Trigonometry.md",
+    "Phys-101/00 Units.md",
     "00.1.md",
     "Math-101/00 Intro.md",
     "laTex formatting cheat sheet.md",
-    "Intro/tour campus.md",
-    "Intro/STCC Welcome.md",
-    "Intro/Coaching IC.md",
-    "Intro/agepoly.md",
-    "Intro/Welcome - Informatique.md",
     "Intro",
     "CS-107",
     "Phys-101",

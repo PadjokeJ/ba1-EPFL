@@ -28,4 +28,4 @@ No exercise counts towards the grade
 The exam is 50 points:
 - 12 points is QCM
 - 38 for written (3 small and 2 large) exercises
-You can bring only one single sided handwritten A4 sheet to the exam
+You can bring only one single sided handwritten A4 sheet to the exam #cheatsheet

@@ -2,7 +2,7 @@
 
 - Vecteurs
 - Espaces vectoriels $\mathbb{R}^n$, $V_n$, etc...
-- Matrices
+- [[#Matrices]]
 	- diagonales
 	- symétriques
 - Transformations linéaires ($T(v)$, $A{\vec v}$)
