@@ -1,3 +1,5 @@
+#alglin
+See [[00.1 Introduction|00.1 Introduction]] 
 # Contenu du cours :
 
 - Vecteurs

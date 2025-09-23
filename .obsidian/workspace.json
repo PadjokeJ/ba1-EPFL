@@ -4,24 +4,39 @@
     "type": "split",
     "children": [
       {
-        "id": "5ad02cde9166e8b6",
+        "id": "0bb13d885a2c1fee",
         "type": "tabs",
         "children": [
           {
-            "id": "1354e3b5a58b450e",
+            "id": "88adea33214d3db2",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-101/01.1 Propositional Logic.md",
+                "file": "CS-101/03.2 Argument in propositional logic.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.1 Propositional Logic"
+              "title": "03.2 Argument in propositional logic"
+            }
+          },
+          {
+            "id": "bc4b6a286d71cb9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS-101/03.1 Proofs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.1 Proofs"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -78,7 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "5df10329232f2a94",
@@ -94,6 +109,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "CS-101/03.2 Argument in propositional logic.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +119,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for 03.2 Argument in propositional logic"
             }
           },
           {
@@ -112,11 +128,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "CS-101/03.2 Argument in propositional logic.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from 03.2 Argument in propositional logic"
             }
           },
           {
@@ -167,45 +184,48 @@
       "bases:Create new base": false
     }
   },
-  "active": "1354e3b5a58b450e",
+  "active": "bc4b6a286d71cb9a",
   "lastOpenFiles": [
+    "CS-101/03.2a Inference rules.md",
+    "CS-101/03.2 Argument in propositional logic.md",
+    "CS-101/Week 3.md",
+    "CS-101/03.1 Proofs.md",
+    "Math-101/03.3 Propriétés de la limite.md",
+    "CS-101/Week 2.md",
+    "Math-101/Semaine 2.md",
+    "Math-101/03.2 Limite a_n vers L.md",
+    "Math-101/03.1 Suites réeles.md",
+    "Math-111/02.7 D'autres critères d'inversibilité.md",
+    "Math-111/Semaine 3.md",
+    "Math-111/02.6 Premier critère d'inversibilité et calcul de l'inverse.md",
+    "Math-111/02.5 Matrices élémentaires.md",
+    "Math-111/02.4 Systèmes d'équations et matrices.md",
+    "Math-101/01.7 Solutions de x2 = 2.md",
+    "Math-101/01.8 Densité.md",
+    "Math-101/01.6 Supremum et infimum.md",
+    "CS-101/02.1 Normal forms.md",
+    "Math-111/02.3 Matrices carrées, inversibles, triangulaires, diagonales.md",
+    "CS-101/02.4 Natural Language to Logic.md",
+    "CS-101/02.5 Logical Equivalences in Predicate Logic.md",
+    "Math-111/Semaine 2.md",
+    "Math-111/02.2 La multiplication de matrices.md",
+    "Math-111/02.1b Transposition.md",
     "Math-111/01 Systèmes d'équations linéaires.md",
-    "Math-111/01.6 Elimination de Gauss.md",
-    "Math-111/01.7 Résolutions de systèmes linéaires.md",
-    "Phys-101/00.3-4 Functions.md",
-    "Phys-101/00.2 Trigonometry.md",
-    "Phys-101/01.3 Cartesian coordinates.md",
-    "Phys-101/Intro.md",
-    "Phys-101/00.1 Vectors.md",
-    "Phys-101/00.0 Units.md",
-    "Phys-101/01.4 Polar coordinates.md",
-    "Phys-101/Pasted image 20250913122815.png",
-    "Phys-101/01.1-2 Position velocity acceleration and trajectory.md",
-    "Math-111/01.8 Système homogène.md",
-    "Math-111/00.0 Introduction.md",
-    "01 Systèmes d'équations linéaries.md",
-    "01 Systèmes d'équations.md",
+    "Math-111/00.1 Introduction.md",
+    "Ink/Writing/2025.9.16 - 16.10pm.writing",
+    "Ink/Writing/2025.9.16 - 14.36pm.writing",
+    "Math-101/archive",
+    "Ink/Writing/2025.9.15 - 11.59am.writing",
+    "Ink/Writing/2025.9.15 - 11.37am.writing",
+    "Ink/Writing/2025.9.15 - 10.17am.writing",
+    "Ink/Writing/2025.9.15 - 11.28am.writing",
+    "Ink/Writing/2025.9.15 - 10.58am.writing",
+    "Ink/Writing/2025.9.15 - 9.37am.writing",
+    "Ink/Drawing/2025.9.15 - 8.22am.drawing",
     "Math-111/eqlin1.png",
-    "CS-101/exercises/01.md",
-    "Untitled",
-    "CS-101/01.1 Propositional Logic.md",
-    "CS-101/00.0 Introduction.md",
+    "Untitled.canvas",
+    "Phys-101/Pasted image 20250913122815.png",
     "CS-101/exercises/IMG_0398.jpeg",
-    "Math-101/01.1 Preliminaries.md",
-    "CS-101/exercises",
-    "Pasted image 20250910154532.png",
-    "CS-107/00.0 Introduction.md",
-    "Intro/CLIC.md",
-    "Untitled.base",
-    "Phys-101/00 Units.md",
-    "00.1.md",
-    "Math-101/00 Intro.md",
-    "laTex formatting cheat sheet.md",
-    "Intro",
-    "CS-107",
-    "Phys-101",
-    "CS-101",
-    "Math-111",
-    "Math-101"
+    "Pasted image 20250910154532.png"
   ]
 }

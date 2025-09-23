@@ -11,6 +11,6 @@ public class Main {
     
     int age = scan.nextInt();
 
-    System.out.println("You were most likely born in " + String.valueOf(currYear - age));
+    System.out.println("You were most likely born in " + (currYear - age));
   }
 }
