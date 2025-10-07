@@ -14,7 +14,7 @@ There will be special exercices which will be checked
 ## What is this course about  
 
 - Real and complex numbers
-- Sequences and their limits (
+- Sequences and their limits
 - Series : $$ e_1 + e_2 + ... + e_\infty $$
 - Theory of functions
 	- Operations with functions
