@@ -9,6 +9,6 @@ Contenu :
 - [[05.6 Séries somme 1 sur np]]
 - [[05.7 Le critère de la limite du quotient]]
 - [[05.8 Séries absolument convergentes]]
-- [[05.9 Le critèrre d'Alembert]]
+- [[05.9 Le critère d'Alembert]]
 
-[[Math-101/Semaine 7|Semaine prochaine]]
+[[Semaine 8|Semaine prochaine]]
