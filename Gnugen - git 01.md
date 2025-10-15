@@ -49,4 +49,6 @@ using `-b`will create a new branch of that name
 Merge with a branch 
 ```bash
 git merge
-```
+``` 
+
+

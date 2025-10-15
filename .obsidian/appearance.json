@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "accentColor": "#f9c159"
+  "accentColor": "#f9c159",
+  "textFontFamily": "Inter"
 }

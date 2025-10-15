@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "CS-101/06.1 Algorithms.md",
+                "file": "CS-107/MP01 Stéganographie.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06.1 Algorithms"
+              "title": "MP01 Stéganographie"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "Selectio",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -172,9 +171,18 @@
   },
   "active": "cef574e6d79d3341",
   "lastOpenFiles": [
+    "Math-101/02.5 Racines de nombres complexes.md",
+    "Math-101/02.4 Exponentielle complexe.md",
+    "Math-101/02.2 Définition des nombres complexes.md",
+    "Math-101/02.3 Le plan complexe.md",
+    "Math-101/Semaine 5.md",
+    "Math-101/Semaine 4.md",
+    "Math-101/Semaine 6.md",
+    "Gnugen - git 02.md",
+    "CS-101/06.1 Algorithms.md",
+    "CS-107/MP01 Stéganographie.md",
     "Math-111/06.8.md",
     "Math-111/Semaine 8.md",
-    "CS-101/06.1 Algorithms.md",
     "Math-111/06.7 Base de l'image et noyau 2.0.md",
     "Math-111/06.6 Rang-ligne Rang-col 2.0.md",
     "Math-111/Semaine 6.md",
@@ -189,15 +197,6 @@
     "Math-101/06.2 Monotonie.md",
     "Math-101/06.1 Fonctions réelles.md",
     "Math-101/05.11 Séries dépendant d'un paramètre.md",
-    "Math-101/05.9 Le critère d'Alembert.md",
-    "Math-101/05.10 Le critère de Cauchy.md",
-    "Math-101/05.3 Le critère de comparaison.md",
-    "Math-101/Semaine 6.md",
-    "Math-101/05.8 Séries absolument convergentes.md",
-    "Math-101/05.7 Le critère de la limite du quotient.md",
-    "Math-101/05.6 Séries somme 1 sur np.md",
-    "Math-101/05.5 Séries télescopiques.md",
-    "Math-101/05.4 Le critère de Leibniz.md",
     "Pasted image 20251010175655.png",
     "CS-101/exercises/IMG_0398.jpeg",
     "CS-101/Pasted image 20251007093018.png",
