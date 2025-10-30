@@ -83,4 +83,4 @@ nomDeLObjet.nomMethode(valeur1 /*, ...*/);
 >}
 >```
 
-[[OOP3 - public et private]]
+[[OOP03 - public et private]]

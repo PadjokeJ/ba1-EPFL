@@ -21,5 +21,5 @@ bar = foo; // Désormais bar pointe vers la même zone de mémoire que bar
  >String foo2 = "foo";
  >assert foo == foo2; //true
  >```
- 
+
  En imprimant une chaîne à la console

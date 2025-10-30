@@ -8,5 +8,8 @@ Contenu :
 - [[06.3 Parité]]
 - [[06.4 Périodicité]]
 - [[06.5 Max-Min, Sup-Inf de fonctions]]
+- [[06.6 Convexité Concavité]]
+- [[07.1 Limites]]
+- [[07.2 x vers x_0]]
 
 [[Math-101/Semaine 9|Semaine prochaine]]

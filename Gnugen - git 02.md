@@ -97,4 +97,3 @@ git checkout <tag>
 >- Use many branches
 >- Use merge/pull req
 >- Add branch protections in github
-

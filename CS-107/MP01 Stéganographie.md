@@ -111,3 +111,22 @@ Syntaxe NomDeClasse.nomDeMethode()
 
 EST LENT
 tests sont randoms et peuvent marcher *parfois*
+
+# Cours de Mercredi
+
+byte + byte = int
+
+(byte) int -> pads out the numbers with 1 (num is neg), 0 (num is pos)
+
+Ne pas oublier de vérifier si valeurs non nulles!!!!
+
+## Opérateurs binaires
+
+| &   | \|  | ^   | ~   | <<      | >>      | >>>     |
+| --- | --- | --- | --- | ------- | ------- | ------- |
+| and | or  | xor | not | shift l | shift r | shift r |
+
+Bonus info :
+
+``>>`` conserve le signe
+``>>>`` oublie le signe

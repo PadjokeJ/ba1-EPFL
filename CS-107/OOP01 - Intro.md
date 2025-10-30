@@ -43,4 +43,4 @@ Identifie les caractéristiques et mécanismes communs aux objets utilisés, ce 
 
 Ces deux concepts collaborent pour rendre l'utilisation des classes (pour un programmeur lambda qui n'est pas le concepteur) plus simple, car il n'a que besoin d'interfacer avec l'objet, car les détails de l'implémentations sont "cachés". 
 
-[[OOP2 - Classes, Objets, Attributs et Méthodes]]
+[[OOP02 - Classes, Objets, Attributs et Méthodes]]

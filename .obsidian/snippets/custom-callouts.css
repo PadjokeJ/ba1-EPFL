@@ -1,0 +1,29 @@
+/* === DEFINITION === */
+.callout[data-callout^="definition"], 
+.callout[data-callout^="définition"] {
+  --callout-color: 255, 121, 198;
+  --callout-icon: lucide-book-open;
+  background-color: rgba(255, 121, 198, 0.2);
+}
+
+.callout[data-callout^="theorem"],
+.callout[data-callout^="théorème"] {
+  --callout-color: 121, 255, 198;
+  --callout-icon: lucide-square-sigma;
+  background-color: rgba(121, 255, 198, 0.2);
+}
+
+.callout[data-callout^="propriété"],
+.callout[data-callout^="propriety"],
+.callout[data-callout^="proprieties"],
+.callout[data-callout^="propriétés"] {
+  --callout-color: 198, 121, 255;
+  --callout-icon: lucide-square-pi;
+  background-color: rgba(198, 121, 255, 0.2);
+}
+
+.callout[data-callout^="corollaire"] {
+  --callout-color: 121, 198, 255;
+  --callout-icon: lucide-book-copy;
+  background-color: rgba(121, 198, 255, 0.2);
+}
