@@ -22,8 +22,35 @@
   background-color: rgba(198, 121, 255, 0.2);
 }
 
+.callout[data-callout^="corollary"],
 .callout[data-callout^="corollaire"] {
   --callout-color: 121, 198, 255;
   --callout-icon: lucide-book-copy;
   background-color: rgba(121, 198, 255, 0.2);
 }
+
+.callout[data-callout^="proposition"] {
+  --callout-color: 198, 255, 121;
+  --callout-icon: lucide-logs;
+  background-color: rgba(198, 255, 121, 0.2);
+}
+
+.callout[data-callout^="lemme"] {
+  --callout-color: 198, 121, 121;
+  --callout-icon: lucide-list-checks;
+  background-color: rgba(198, 121, 121, 0.2);
+}
+
+.callout[data-callout^="arthur"] {
+  --callout-color: 255, 255, 0;
+  --callout-icon: lucide-annoyed;
+  background-color: rgba(255, 255, 0, 0.2);
+}
+
+.callout[data-callout^="algorithme"],
+.callout[data-callout^="algorithm"] {
+  --callout-color: 140, 30, 140;
+  --callout-icon: lucide-list-video;
+  background-color: rgba(140, 30, 140, 0.2);
+}
+

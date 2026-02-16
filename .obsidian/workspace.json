@@ -4,24 +4,81 @@
     "type": "split",
     "children": [
       {
-        "id": "14155f1e0f64be67",
+        "id": "2beb4b9215e9d89e",
         "type": "tabs",
         "children": [
           {
-            "id": "af7aa27bc991dd20",
+            "id": "9251ba1e597d95f3",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Math-111/Semaine 10.md",
+                "file": "Phys-101/05.7 Archimedes' Principle.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Semaine 10"
+              "title": "05.7 Archimedes' Principle"
+            }
+          },
+          {
+            "id": "94f93e557bcfc6e0",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Math-111/10.2 Matrices orthogonales, équivalences.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "10.2 Matrices orthogonales, équivalences"
+            }
+          },
+          {
+            "id": "8bc81ed990f80d5d",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys-101/Chapter 03.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Chapter 03"
+            }
+          },
+          {
+            "id": "a97979b73c769796",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Phys-101/03.1 Newton's laws.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "03.1 Newton's laws"
+            }
+          },
+          {
+            "id": "f8a1a2afc1b76a29",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "CS-101/05.1 Generating functions.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "05.1 Generating functions"
             }
           }
-        ]
+        ],
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -53,7 +110,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#analyse",
+                "query": "mass",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -94,7 +151,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "CS-101/03.2 Argument in propositional logic.md",
+                "file": "12.3 Les fonctions intégrales.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +161,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 03.2 Argument in propositional logic"
+              "title": "Backlinks for 12.3 Les fonctions intégrales"
             }
           },
           {
@@ -169,54 +226,54 @@
       "bases:Create new base": false
     }
   },
-  "active": "af7aa27bc991dd20",
+  "active": "f8a1a2afc1b76a29",
   "lastOpenFiles": [
-    "Math-111/Semaine 9.md",
-    "Math-111/Semaine 10.md",
-    "Math-101/Semaine 9.md",
-    "Math-101/07.1 Limites.md",
-    "Math-101/06.6 Convexité Concavité.md",
-    "Math-101/08.1 Définition de la continuité.md",
-    "Math-101/07.8 Limites x vers infinité.md",
-    "Math-101/07.7 Limites infinies en un point.md",
-    "Math-101/07.6 Quelques indéterminations.md",
-    "Math-101/07.5 Propriétés.md",
-    "Math-101/07.4 Limites latérales.md",
-    "Math-101/07.3 Le théorème des deux gendarmes.md",
-    "CS-107/MP01 Stéganographie.md",
-    "Gnugen - git 02.md",
-    "Gnugen - git 01.md",
-    "07.6 Limites infinies en un point.md",
-    "Math-111/05.3 Espaces de fonctions.md",
-    "Math-111/Semaine 5.md",
-    "Math-101/Semaine 8.md",
-    "Math-101/07.2 x vers x_0.md",
-    "Math-101/06.5 Max-Min, Sup-Inf de fonctions.md",
-    "CS-101/08.5 Little-o.md",
+    "CS-101/05.0 Formal Power Sum.md",
+    "CS-101/Week 5.md",
+    "CS-101/Week 4.md",
+    "CS-101/Week 6.md",
     "CS-101/Week 8.md",
-    "Phys-101/07.6 Variable mass system.md",
-    "CS-101/08.4 Big-Theta.md",
-    "CS-101/08.3 Big-Omega.md",
+    "CS-101/Week 10.md",
+    "CS-101/10.4 Division.md",
+    "CS-101/09.4 Tractable Problems.md",
+    "CS-101/09.3 Brute force algorithms.md",
+    "CS-101/12.1 Binomial Theorem.md",
+    "Math-111/10.12 Décomposition en valeurs singulières.md",
+    "Math-111/10.11 Théorème fondamental des valeurs singulières.md",
+    "Math-111/10.10 Valeurs singulières.md",
+    "Math-111/09.7 Procédé Gram-Schmidt.md",
+    "Math-111/10.8 Théorème des axes principaux.md",
+    "Math-111/10.2 Matrices orthogonales, équivalences.md",
+    "Math-111/08.9 Exemples de diagonalisation.md",
+    "Math-111/08.8 Critère de diagonalisabilité.md",
+    "Math-111/08.10 Résumé.md",
+    "Math-111/08.11 Appendice - valeurs propres complexes.md",
+    "Math-111/09.1 Géométrie dans le plan et l'espace.md",
+    "Math-111/09.14 La factorisation QR - application à la résolution d'un système au sens des moindres carrés.md",
+    "Math-111/09.13 La factorisation QR.md",
+    "Math-111/10.3 Changement de base orthogonal.md",
+    "Math-111/10.4 Matrices symétriques, valeurs propres, vecteurs propres, théorème spectral.md",
+    "Phys-101/10.4 Moment of Inertia of a Solid with Respect to an Axis.md",
+    "Pasted image 20251201115351.png",
+    "Pasted image 20251118090443.png",
+    "Phys-101/Pasted image 20251127173235.png",
+    "Ink/Drawing/2025.11.24 - 16.36pm.drawing",
+    "CS-107/Pasted image 20251117133401.png",
+    "CS-107/Pasted image 20251103104139.png",
+    "Phys-101/Pasted image 20251113121502.png",
+    "Ink/Drawing/2025.11.13 - 17.11pm.drawing",
+    "CS-101/exercises/recursive_factorial",
+    "CS-101/exercises/recursive_factorial.recursive_factorial.55c2d97782d8940a-cgu.0.rcgu.o",
+    "CS-101/exercises/recursive_factorial.6vxkbr8m06k18tz4l7u7tm8cy.rcgu.o",
+    "CS-101/exercises/recursive_factorial.rs",
+    "CS-101/Pasted image 20251007093018.png",
+    "09.13 Dérivée seconde et convexité",
+    "Ink/Drawing/2025.11.10 - 10.24am.drawing",
+    "Ink/Drawing/2025.11.10 - 10.05am.drawing",
     "oop6",
-    "Ink/Drawing/2025.10.29 - 8.13am.drawing",
     "Pasted image 20251010175655.png",
     "CS-101/exercises/IMG_0398.jpeg",
-    "CS-101/Pasted image 20251007093018.png",
     "Phys-101/Pasted image 20251004093226.png",
-    "Phys-101/Pasted image 20251004092800.png",
-    "Untitled.canvas",
-    "Ink/Drawing/2025.9.30 - 10.16am.drawing",
-    "Ink/Drawing/2025.9.30 - 10.15am (2).drawing",
-    "Ink/Drawing/2025.9.30 - 10.15am.drawing",
-    "Ink/Drawing/2025.9.30 - 10.13am.drawing",
-    "Ink/Drawing/2025.9.30 - 9.47am.drawing",
-    "Phys-101/Pasted image 20250925134427.png",
-    "Phys-101/Pasted image 20250913122815.png",
-    "Pasted image 20250925134502.png",
-    "Pasted image 20250925134452.png",
-    "Ink/Drawing/2025.9.25 - 13.04pm.drawing",
-    "Math-111/eqlin1.png",
-    "Ink/Writing/2025.9.16 - 16.10pm.writing",
-    "Ink/Writing/2025.9.16 - 14.36pm.writing"
+    "Untitled.canvas"
   ]
 }

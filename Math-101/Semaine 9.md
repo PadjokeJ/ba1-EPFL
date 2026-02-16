@@ -11,5 +11,6 @@ Contenu :
 - [[08.2 Prolongement par continuité]]
 - [[08.3 Continuité sur un intervalle compact]]
 - [[08.4 Le théorème de la valeur intermédiaire]]
+- [[08.5 Continuité et calcul de limites]]
 
 [[Math-101/Semaine 10|Semaine prochaine]]

@@ -1,9 +1,9 @@
 {
   "theme": "obsidian",
   "accentColor": "#f9c159",
-  "textFontFamily": "Inter",
-  "monospaceFontFamily": "JetBrainsMono NF",
   "enabledCssSnippets": [
     "custom-callouts"
-  ]
+  ],
+  "monospaceFontFamily": "JetBrainsMono Nerd Font",
+  "showRibbon": false
 }
