@@ -25,3 +25,7 @@ Un formulaire est fourni à l' #exam
 Si une formule est dans le formulaire, on peut l'utiliser sans la prouver dans l'examen
 
 On peut également avoir une feuille **recto simple** (UN CÔTÉ) manuscrite (peut être rédigée sur une tablette)
+
+# Semaines
+
+- [[ba1-EPFL/PHYS-101/Semaine 1]]
