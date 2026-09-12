@@ -13,4 +13,4 @@ On y voit surtout les **équations linéaires**, comment une matrice peut corres
 - [[01.4 Opérations élémentaires -- sur une matrice]]
 - [[01.5 Matrices échelonnées, réduites]]
 
-[[Semaine 2]]
+[[ba1-EPFL/MATH-111/Semaine 2]]
