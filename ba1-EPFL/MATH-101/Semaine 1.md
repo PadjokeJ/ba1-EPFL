@@ -7,3 +7,5 @@ Cette semaine on parle d'ensembles d'éléments, mais surtout d'ensembles de nom
 
 - [[00.0 Prérequis]]
 - [[01.1 Nombres réels -- Ensembles]]
+
+[[ba1-EPFL/MATH-101/Semaine 2|Semaine 2]]
