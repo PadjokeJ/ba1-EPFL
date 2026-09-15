@@ -24,4 +24,4 @@ On se mettra en groupe ==jeudi== (nommés d'après des montagnes suisses) pour f
 Si on finit pas les séries en classe, elles seront sur moodle
 # Semaines
 
-- [[ba1-EPFL/MATH-111/Semaine 1|Semaine 1]]
+- [[Chapitre 1|Chapitre 1]]

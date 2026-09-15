@@ -55,16 +55,30 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ba1-EPFL/MATH-101/notes/02.1 Nombres complexes.md",
+                "file": "ba1-EPFL/PHYS-101/notes/01.6 Coordonnées cylindriques.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02.1 Nombres complexes"
+              "title": "01.6 Coordonnées cylindriques"
+            }
+          },
+          {
+            "id": "a6f75233ac8764f1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ba1-EPFL/PHYS-101/Semaine 1.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Semaine 1"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -215,16 +229,25 @@
       "bases:Create new base": false
     }
   },
-  "active": "cab38e13044be4a4",
+  "active": "a6f75233ac8764f1",
   "lastOpenFiles": [
-    "ba1-EPFL/MATH-101/Semaine 2.md",
+    "ba1-EPFL/PHYS-101/notes/01.6 Coordonnées cylindriques.md",
+    "ba1-EPFL/PHYS-101/notes/01.4 Coordonnées polaires.md",
+    "ba1-EPFL/PHYS-101/notes/01.5 Coordonnées curvilignes.md",
+    "ba1-EPFL/PHYS-101/Semaine 1.md",
+    "ba1-EPFL/MATH-111/Chapitre 2.md",
+    "ba1-EPFL/MATH-111/notes/01.8 Système homogènes.md",
+    "ba1-EPFL/MATH-111/notes/01.7 Résolution de systèmes linéaires.md",
+    "ba1-EPFL/MATH-111/notes/01.6 L'élimination de Gauss.md",
+    "ba1-EPFL/MATH-111/Chapitre 1.md",
+    "ba1-EPFL/MATH-111/Introduction.md",
+    "ba1-EPFL/MATH-111/notes/01.5 Matrices échelonnées, réduites.md",
     "ba1-EPFL/MATH-101/notes/02.1 Nombres complexes.md",
+    "ba1-EPFL/MATH-101/Semaine 2.md",
     "ba1-EPFL/MATH-101/Semaine 1.md",
     "ba1-EPFL/MATH-101/notes/01.1 Nombres réels -- Ensembles.md",
     "ba1-EPFL/PHYS-101/Introduction.md",
-    "ba1-EPFL/PHYS-101/Semaine 1.md",
     "TODO.md",
-    "ba1-EPFL/PHYS-101/notes/01.4 Coordonnées polaires -- théorie.md",
     "ba1-EPFL/PHYS-101/notes/01.3 Coordonnées cartésiennes.md",
     "ba1-EPFL/PHYS-101/notes/01.1-2 Position, vitesse, accélération, trajectoire.md",
     "ba1-EPFL/PHYS-101/notes/0.5 Rappel sur les trièdres directs.md",
@@ -232,25 +255,16 @@
     "PHYS-101",
     "ba1-EPFL/PHYS-101/notes",
     "ba1-EPFL/MATH-101/notes/00.0 Prérequis.md",
-    "ba1-EPFL/MATH-111/notes/01.5 Matrices échelonnées, réduites.md",
     "ba1-EPFL/MATH-111/notes/01.1 Les équations linéaires.md",
     "ba1-EPFL/MATH-111/notes/01.2 Nombre de solutions d'un système linéaire.md",
     "ba1-EPFL/MATH-111/notes/01.4 Opérations élémentaires -- sur une matrice.md",
     "ba1-EPFL/MATH-111/notes/01.3 Méthodes de résolution, opérations élémentaires.md",
-    "ba1-EPFL/MATH-111/Semaine 1.md",
-    "ba1-EPFL/MATH-111/Introduction.md",
-    "ba1-EPFL/MATH-111/Semaine 2.md",
-    "ba1-EPFL/MATH-101/Introduction.md",
     "ba1-EPFL/MATH-111/notes",
-    "ba1-EPFL/IC-BA1.md",
-    "ba1-EPFL/S4S -- Formation pour Assistants.md",
     "ba1-EPFL/MATH-101/notes",
-    "LSL -- Cours de Science.md",
     "ba1-EPFL/images",
     "ba1-EPFL/PHYS-101",
     "ba1-EPFL/MATH-111",
     "ba1-EPFL/MATH-101",
-    "OLD/09.4 Energy of the Gravitational Force.md",
     "OLD",
     "ba1-EPFL",
     "OLD/Pasted image 20251201115351.png",
