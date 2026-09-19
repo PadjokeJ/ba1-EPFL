@@ -69,12 +69,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ba1-EPFL/PHYS-101/Introduction.md",
+                "file": "ba1-EPFL/PHYS-101/notes/01.8 Mouvement circulaire -- vecteur rotation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction"
+              "title": "01.8 Mouvement circulaire -- vecteur rotation"
             }
           },
           {
@@ -245,7 +245,9 @@
   },
   "active": "a6f75233ac8764f1",
   "lastOpenFiles": [
+    "ba1-EPFL/PHYS-101/notes/02.1 Introduction aux référentiels accélérés.md",
     "ba1-EPFL/PHYS-101/Semaine 2.md",
+    "ba1-EPFL/PHYS-101/Introduction.md",
     "ba1-EPFL/PHYS-101/Semaine 1.md",
     "ba1-EPFL/PHYS-101/notes/01.8 Mouvement circulaire -- vecteur rotation.md",
     "ba1-EPFL/PHYS-101/notes/01.7 Coordonnées sphériques.md",
@@ -270,8 +272,6 @@
     "ba1-EPFL/PHYS-101/notes/01.4 Coordonnées polaires.md",
     "ba1-EPFL/MATH-111/notes/01.8 Système homogènes.md",
     "ba1-EPFL/MATH-111/Introduction.md",
-    "ba1-EPFL/MATH-101/Semaine 1.md",
-    "ba1-EPFL/MATH-101/notes/01.1 Nombres réels -- Ensembles.md",
     "PHYS-101",
     "ba1-EPFL/PHYS-101/notes",
     "ba1-EPFL/MATH-111/notes",
