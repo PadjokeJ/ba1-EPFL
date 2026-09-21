@@ -1,13 +1,13 @@
-- [ ] **CLIC** : Ulysse -- voir avec lui, dire que pour plus tard : voir la charge avec polan et gamestar
-- [ ] **CLIC** : Zoe -- faire signer la charte, remind pas trop de travail
-- [ ] **CLIC** : Budget
+- [x] **CLIC** : Ulysse -- voir avec lui, dire que pour plus tard : voir la charge avec polan et gamestar ✅ 2026-09-21
+- [x] **CLIC** : Zoe -- faire signer la charte, remind pas trop de travail ✅ 2026-09-21
+- [x] **CLIC** : Budget ✅ 2026-09-21
 - [ ] **CLIC** : nos accès serveur
 - [ ] **CLIC** : accès commissions
 - [ ] **CLIC** : fix shelfnu
 - [ ] **CLIC** : directus docs
 - [ ] **CLIC** : équipiers + comissions sur le site. 
-- [ ] **ADONIA** : Lettres
-- [ ] **CHOCOP** : Affiche
+- [x] **ADONIA** : Lettres ✅ 2026-09-21
+- [x] **CHOCOP** : Affiche ✅ 2026-09-21
 - [ ] **CHOCOP** : Commander stickers
 - [ ] **EPFL** : étude sur les 1e années
 - [ ] 
