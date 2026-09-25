@@ -11,9 +11,5 @@ tags:
 - [[02.05 Matrices élémentaires]]
 - [[02.06 Premier critère d'inversibilité et calcul d'inverse]]
 - [[02.07 D'autres critères d'inversibilité]]
-- [[02.08 Décomposition LU -- existence]]
-- [[02.09 Décomposition LU -- algorithme]]
-- [[02.10 Décomposition LU -- application]]
-- [[02.11 Décomposition en blocs]]
 
 [[Chapitre 3]]

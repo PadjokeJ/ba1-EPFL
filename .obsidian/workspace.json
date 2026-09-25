@@ -4,95 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "dc5fb23f67c49442",
+        "id": "47b07b2f62be3bd6",
         "type": "tabs",
         "children": [
           {
-            "id": "01a13574c515ab5f",
+            "id": "1f8dd1ada086f884",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ba1-EPFL/MATH-111/notes/01.1 Les équations linéaires.md",
+                "file": "ba1-EPFL/MATH-111/notes/03.4 Sous-espaces vectoriels.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "01.1 Les équations linéaires"
-            }
-          },
-          {
-            "id": "280b0114249c2269",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ba1-EPFL/MATH-111/notes/01.2 Nombre de solutions d'un système linéaire.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.2 Nombre de solutions d'un système linéaire"
-            }
-          },
-          {
-            "id": "0faac70e7ab4ed4d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ba1-EPFL/MATH-101/Semaine 1.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Semaine 1"
-            }
-          },
-          {
-            "id": "cab38e13044be4a4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ba1-EPFL/PHYS-101/notes/01.6 Coordonnées cylindriques.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "01.6 Coordonnées cylindriques"
-            }
-          },
-          {
-            "id": "a6f75233ac8764f1",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ba1-EPFL/MATH-111/notes/02.08 Décomposition LU -- existence.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "02.08 Décomposition LU -- existence"
-            }
-          },
-          {
-            "id": "7e9a467d93c6c5f5",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "ba1-EPFL/PHYS-101/Semaine 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Semaine 2"
+              "title": "03.4 Sous-espaces vectoriels"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "vertical"
@@ -126,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "under",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -243,12 +172,27 @@
       "bases:Create new base": false
     }
   },
-  "active": "a6f75233ac8764f1",
+  "active": "1f8dd1ada086f884",
   "lastOpenFiles": [
-    "ba1-EPFL/MATH-111/notes/02.07 D'autres critères d'inversibilité.md",
-    "ba1-EPFL/MATH-111/notes/02.08 Décomposition LU -- existence.md",
-    "ba1-EPFL/MATH-111/Chapitre 2.md",
+    "ba1-EPFL/MATH-111/notes/03.3 D'autres exemples importants.md",
+    "ba1-EPFL/MATH-111/notes/03.4 Sous-espaces vectoriels.md",
+    "ba1-EPFL/MATH-111/notes/03.2 L'espace des coordonnées.md",
+    "ba1-EPFL/MATH-111/notes/03.1 Espaces vectoriels -- Définition.md",
     "ba1-EPFL/MATH-111/Chapitre 3.md",
+    "ba1-EPFL/PHYS-101/Semaine 2.md",
+    "ba1-EPFL/MATH-111/Chapitre 2.md",
+    "ba1-EPFL/MATH-111/notes/02.08 Décomposition LU -- existence.md",
+    "ba1-EPFL/MATH-101/Semaine 2.md",
+    "ba1-EPFL/MATH-101/notes/03.1 Suites des nombres réels.md",
+    "ba1-EPFL/MATH-101/notes/02.1 Nombres complexes.md",
+    "ba1-EPFL/PHYS-101/notes/02.3 Cas particuliers des référentiels accélérés.md",
+    "ba1-EPFL/MATH-101/notes/01.1 Nombres réels -- Ensembles.md",
+    "ba1-EPFL/MATH-101/Semaine 3.md",
+    "ba1-EPFL/MATH-101/Semaine 1.md",
+    "ba1-EPFL/PHYS-101/notes/01.6 Coordonnées cylindriques.md",
+    "ba1-EPFL/PHYS-101/notes/02.2 Dérivation des référentiels accélérés.md",
+    "ba1-EPFL/PHYS-101/notes/02.1 Introduction aux référentiels accélérés.md",
+    "ba1-EPFL/MATH-111/notes/02.07 D'autres critères d'inversibilité.md",
     "TODO.md",
     "ba1-EPFL/MATH-111/notes/02.06 Premier critère d'inversibilité et calcul d'inverse.md",
     "ba1-EPFL/MATH-111/notes/01.8 Système homogènes.md",
@@ -256,21 +200,6 @@
     "ba1-EPFL/MATH-111/notes/02.05 Matrices élémentaires.md",
     "LSL -- Cours de Science.md",
     "ba1-EPFL/MATH-111/notes/02.04 Systèmes d'équations et matrices.md",
-    "ba1-EPFL/PHYS-101/notes/01.8 Mouvement circulaire -- vecteur rotation.md",
-    "ba1-EPFL/PHYS-101/notes/02.1 Introduction aux référentiels accélérés.md",
-    "ba1-EPFL/PHYS-101/Semaine 2.md",
-    "ba1-EPFL/PHYS-101/Introduction.md",
-    "ba1-EPFL/PHYS-101/Semaine 1.md",
-    "ba1-EPFL/PHYS-101/notes/01.7 Coordonnées sphériques.md",
-    "ba1-EPFL/PHYS-101/notes/01.6 Coordonnées cylindriques.md",
-    "ba1-EPFL/PHYS-101/notes/01.5 Coordonnées curvilignes.md",
-    "ba1-EPFL/PHYS-101/notes/0.5 Rappel sur les trièdres directs.md",
-    "ba1-EPFL/MATH-111/notes/01.7 Résolution de systèmes linéaires.md",
-    "ba1-EPFL/MATH-111/notes/02.03 Matrices carrées.md",
-    "ba1-EPFL/S4S -- Formation pour Assistants.md",
-    "ba1-EPFL/MATH-111/notes/02.02 La multiplication de matrices.md",
-    "ba1-EPFL/MATH-111/notes/02.01 Addition, multiplication par un scalaire, transposée.md",
-    "ba1-EPFL/MATH-111/notes/01.4 Opérations élémentaires -- sur une matrice.md",
     "ba1-EPFL/images/Pasted image 20260916101750.png",
     "PHYS-101",
     "ba1-EPFL/PHYS-101/notes",
