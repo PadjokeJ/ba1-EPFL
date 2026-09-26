@@ -22,6 +22,9 @@ Possibilité de poser des questions sur ED discussions -- réponse par des assis
 On se mettra en groupe ==jeudi== (nommés d'après des montagnes suisses) pour faire un exercice ensemble par semaine. Chaque semaine en groupe on fait une série qui sera corrigée avec des feedbacks utiles par les assistants
 
 Si on finit pas les séries en classe, elles seront sur moodle
-# Semaines
+# Chapitres
 
 - [[Chapitre 1|Chapitre 1]]
+- [[Chapitre 2]]
+- [[Chapitre 3]]
+- [[Chapitre 4]]

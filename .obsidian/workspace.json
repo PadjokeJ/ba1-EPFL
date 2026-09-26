@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ba1-EPFL/MATH-111/notes/03.4 Sous-espaces vectoriels.md",
+                "file": "ba1-EPFL/MATH-111/Chapitre 4.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "03.4 Sous-espaces vectoriels"
+              "title": "Chapitre 4"
             }
           }
         ]
@@ -174,11 +174,16 @@
   },
   "active": "1f8dd1ada086f884",
   "lastOpenFiles": [
-    "ba1-EPFL/MATH-111/notes/03.3 D'autres exemples importants.md",
+    "ba1-EPFL/MATH-111/Introduction.md",
+    "ba1-EPFL/MATH-111/Chapitre 4.md",
+    "ba1-EPFL/MATH-111/Chapitre 3.md",
+    "ba1-EPFL/MATH-111/notes/03.7 Espace ligne, espace colonne d'une matrice.md",
+    "ba1-EPFL/MATH-111/notes/03.6 La somme de sous-espaces vectoriels.md",
+    "ba1-EPFL/MATH-111/notes/03.5 Combinaisons linéaires, sous-espaces engendrés par une famille de vecteurs.md",
     "ba1-EPFL/MATH-111/notes/03.4 Sous-espaces vectoriels.md",
+    "ba1-EPFL/MATH-111/notes/03.3 D'autres exemples importants.md",
     "ba1-EPFL/MATH-111/notes/03.2 L'espace des coordonnées.md",
     "ba1-EPFL/MATH-111/notes/03.1 Espaces vectoriels -- Définition.md",
-    "ba1-EPFL/MATH-111/Chapitre 3.md",
     "ba1-EPFL/PHYS-101/Semaine 2.md",
     "ba1-EPFL/MATH-111/Chapitre 2.md",
     "ba1-EPFL/MATH-111/notes/02.08 Décomposition LU -- existence.md",
@@ -195,11 +200,6 @@
     "ba1-EPFL/MATH-111/notes/02.07 D'autres critères d'inversibilité.md",
     "TODO.md",
     "ba1-EPFL/MATH-111/notes/02.06 Premier critère d'inversibilité et calcul d'inverse.md",
-    "ba1-EPFL/MATH-111/notes/01.8 Système homogènes.md",
-    "ba1-EPFL/MATH-111/notes/01.1 Les équations linéaires.md",
-    "ba1-EPFL/MATH-111/notes/02.05 Matrices élémentaires.md",
-    "LSL -- Cours de Science.md",
-    "ba1-EPFL/MATH-111/notes/02.04 Systèmes d'équations et matrices.md",
     "ba1-EPFL/images/Pasted image 20260916101750.png",
     "PHYS-101",
     "ba1-EPFL/PHYS-101/notes",
