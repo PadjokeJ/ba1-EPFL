@@ -12,4 +12,4 @@ Nous finissons le chapitre 1 sur la cinématique et commençons le chapitre 2, s
 - [[02.2 Dérivation des référentiels accélérés]]
 - [[02.3 Cas particuliers des référentiels accélérés]]
 
-Semaine 3
+[[ba1-EPFL/PHYS-101/Semaine 3]]

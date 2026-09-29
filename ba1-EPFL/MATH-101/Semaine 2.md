@@ -6,4 +6,4 @@ tags:
 
 - [[02.1 Nombres complexes]]
 
-[[Semaine 3]]
+[[ba1-EPFL/MATH-101/Semaine 3]]

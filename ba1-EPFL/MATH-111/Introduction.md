@@ -24,7 +24,7 @@ On se mettra en groupe ==jeudi== (nommés d'après des montagnes suisses) pour f
 Si on finit pas les séries en classe, elles seront sur moodle
 # Chapitres
 
-- [[Chapitre 1|Chapitre 1]]
-- [[Chapitre 2]]
-- [[Chapitre 3]]
-- [[Chapitre 4]]
+- [[ba1-EPFL/MATH-111/Chapitre 1|Chapitre 1]]
+- [[ba1-EPFL/MATH-111/Chapitre 2|Chapitre 2]]
+- [[ba1-EPFL/MATH-111/Chapitre 3|Chapitre 3]]
+- [[ba1-EPFL/MATH-111/Chapitre 4|Chapitre 4]]
