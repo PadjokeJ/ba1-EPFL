@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ba1-EPFL/PHYS-101/notes/04.5 Balistique -- Portée maximale.md",
+                "file": "ba1-EPFL/MATH-101/notes/04.3 Limites infinies.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "04.5 Balistique -- Portée maximale"
+              "title": "04.3 Limites infinies"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -70,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "ortho",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -91,7 +90,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -187,34 +187,34 @@
       "bases:Create new base": false
     }
   },
-  "active": "132137d5f67a1018",
+  "active": "1f8dd1ada086f884",
   "lastOpenFiles": [
-    "ba1-EPFL/PHYS-101/Semaine 3.md",
-    "ba1-EPFL/PHYS-101/notes/04.5 Balistique -- Portée maximale.md",
-    "ba1-EPFL/PHYS-101/notes/04.4 Balistique -- trajectoire, hauteur maximale, point d'impact.md",
+    "ba1-EPFL/MATH-101/notes/04.3 Limites infinies.md",
     "ba1-EPFL/MATH-101/notes/04.2 Relation d'ordre.md",
+    "ba1-EPFL/MATH-111/notes/04.6 Systèmes homogènes et base de l'espace des solutions.md",
+    "ba1-EPFL/MATH-111/notes/04.5 Bases dans un espace de dimension connue.md",
+    "ba1-EPFL/MATH-111/notes/04.4 Dimension.md",
+    "ba1-EPFL/MATH-111/notes/04.3 Bases et dimension.md",
+    "ba1-EPFL/MATH-111/notes/01.1 Les équations linéaires.md",
+    "ba1-EPFL/PHYS-101/Semaine 2.md",
+    "ba1-EPFL/MATH-111/notes/04.2 Dépendance et indépendance linéaires -- propriétés et critères.md",
+    "ba1-EPFL/MATH-111/notes/04.1 Dépendance et indépendance linéaires.md",
+    "ba1-EPFL/MATH-111/notes/03.7 Espace ligne, espace colonne d'une matrice.md",
+    "ba1-EPFL/MATH-111/Chapitre 4.md",
+    "ba1-EPFL/MATH-111/notes/03.6 La somme de sous-espaces vectoriels.md",
+    "ba1-EPFL/MATH-111/Chapitre 3.md",
+    "ba1-EPFL/PHYS-101/notes/04.5 Balistique -- Portée maximale.md",
+    "ba1-EPFL/PHYS-101/Semaine 3.md",
+    "ba1-EPFL/PHYS-101/notes/04.4 Balistique -- trajectoire, hauteur maximale, point d'impact.md",
     "ba1-EPFL/MATH-101/Semaine 4.md",
     "ba1-EPFL/MATH-111/Introduction.md",
     "ba1-EPFL/MATH-111/Chapitre 2.md",
     "ba1-EPFL/IC-BA1.md",
     "ba1-EPFL/MATH-111/Chapitre 1.md",
-    "ba1-EPFL/PHYS-101/Semaine 2.md",
     "ba1-EPFL/PHYS-101/notes/04.3 Balistique -- Cas général.md",
     "ba1-EPFL/PHYS-101/notes/04.2 Balistique -- Lancer vertical.md",
     "ba1-EPFL/PHYS-101/notes/04.1 Balistique -- Poids d'un objet.md",
     "ba1-EPFL/PHYS-101/notes/03.7 Lois de Newton -- Référentiel accéléré.md",
-    "ba1-EPFL/PHYS-101/notes/03.6 Bilan des Forces.md",
-    "ba1-EPFL/PHYS-101/notes/01.1-2 Position, vitesse, accélération, trajectoire.md",
-    "ba1-EPFL/PHYS-101/notes/03.5 Lois de Newton -- Troisième loi.md",
-    "ba1-EPFL/PHYS-101/notes/03.4 Lois de Newton -- Deuxième loi.md",
-    "ba1-EPFL/PHYS-101/notes/03.3 Lois de Newton -- Première loi.md",
-    "ba1-EPFL/MATH-101/Semaine 3.md",
-    "ba1-EPFL/MATH-101/notes/04.1 Opérations sur les limites.md",
-    "ba1-EPFL/MATH-101/notes/03.1 Suites des nombres réels.md",
-    "ba1-EPFL/MATH-101/Semaine 2.md",
-    "ba1-EPFL/PHYS-101/notes/03.2 Lois de Newton -- Masse et Quantité de Mouvement.md",
-    "ba1-EPFL/PHYS-101/notes/01.6 Coordonnées cylindriques.md",
-    "03.1 Lois de Newton -- Intro.md",
     "ba1-EPFL/images/Pasted image 20260916101750.png",
     "PHYS-101",
     "ba1-EPFL/PHYS-101/notes",
