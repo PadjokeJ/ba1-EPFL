@@ -6,4 +6,4 @@ tags:
 
 - [[03.1 Suites des nombres réels]]
 
-[[Semaine 4]]
+[[ba1-EPFL/MATH-101/Semaine 4]]
