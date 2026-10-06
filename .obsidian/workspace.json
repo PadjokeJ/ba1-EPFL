@@ -8,31 +8,15 @@
         "type": "tabs",
         "children": [
           {
-            "id": "3bc79d1b1c22e612",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04.8 Balistique -- Référentiel en rotation.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "04.8 Balistique -- Référentiel en rotation"
-            }
-          },
-          {
             "id": "a362d28d9d0173ff",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "ba1-EPFL/PHYS-101/Semaine 4.md",
-                "mode": "source",
-                "source": false
+                "file": "ba1-EPFL/images/Pasted image 20261005114744.png"
               },
-              "icon": "lucide-file",
-              "title": "Semaine 4"
+              "icon": "lucide-image",
+              "title": "Pasted image 20261005114744"
             }
           }
         ]
@@ -94,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "5df10329232f2a94",
@@ -187,10 +170,24 @@
       "bases:Create new base": false
     }
   },
-  "active": "3bc79d1b1c22e612",
+  "active": "a362d28d9d0173ff",
   "lastOpenFiles": [
+    "ba1-EPFL/images/Pasted image 20261005114341.png",
+    "ba1-EPFL/MATH-101/Semaine 5.md",
+    "ba1-EPFL/MATH-111/Chapitre 5.md",
+    "05.0 Quelques rappels.md",
+    "ba1-EPFL/MATH-111/notes/04.7 La dimension d'un sous-espace.md",
+    "ba1-EPFL/MATH-111/Chapitre 4.md",
+    "ba1-EPFL/PHYS-101/notes/05.1 Forces -- Réaction d'un support.md",
     "ba1-EPFL/PHYS-101/Semaine 4.md",
-    "04.8 Balistique -- Référentiel en rotation.md",
+    "ba1-EPFL/PHYS-101/notes/05.2 Forces -- Frottement sec.md",
+    "ba1-EPFL/images/Pasted image 20261005114744.png",
+    "ba1-EPFL/PHYS-101/notes/04.8 Balistique -- Référentiel en rotation.md",
+    "ba1-EPFL/MATH-101/notes/05.3 Suites de Cauchy.md",
+    "ba1-EPFL/MATH-101/notes/05.4 Limite supérieure et limite inférieure d'une suite bornée.md",
+    "ba1-EPFL/MATH-101/notes/05.2 Sous-suites.md",
+    "ba1-EPFL/MATH-101/notes/05.1 Le nombre e.md",
+    "ba1-EPFL/MATH-101/Semaine 4.md",
     "ba1-EPFL/PHYS-101/Semaine 3.md",
     "ba1-EPFL/MATH-111/notes/04.12 Comment trouver une base à partir d'un système générateur.md",
     "ba1-EPFL/MATH-111/notes/04.11 Coordonnées par rapport à une base.md",
@@ -199,22 +196,9 @@
     "ba1-EPFL/MATH-111/notes/01.6 L'élimination de Gauss.md",
     "ba1-EPFL/MATH-111/notes/03.6 La somme de sous-espaces vectoriels.md",
     "ba1-EPFL/MATH-111/notes/03.7 Espace ligne, espace colonne d'une matrice.md",
-    "04.7 La dimension d'un sous-espace.md",
-    "ba1-EPFL/MATH-111/Chapitre 4.md",
     "ba1-EPFL/MATH-101/notes/04.3 Limites infinies.md",
     "ba1-EPFL/MATH-111/notes/01.2 Nombre de solutions d'un système linéaire.md",
     "ba1-EPFL/PHYS-101/Semaine 1.md",
-    "ba1-EPFL/IC-BA1.md",
-    "ba1-EPFL/PHYS-101/notes/04.6 Balistique -- Temps de vol.md",
-    "ba1-EPFL/MATH-111/notes/03.1 Espaces vectoriels -- Définition.md",
-    "ba1-EPFL/MATH-111/notes/03.2 L'espace des coordonnées.md",
-    "ba1-EPFL/MATH-111/notes/02.06 Premier critère d'inversibilité et calcul d'inverse.md",
-    "ba1-EPFL/MATH-111/notes/02.04 Systèmes d'équations et matrices.md",
-    "ba1-EPFL/MATH-111/notes/02.03 Matrices carrées.md",
-    "ba1-EPFL/MATH-111/notes/02.02 La multiplication de matrices.md",
-    "ba1-EPFL/MATH-111/notes/02.01 Addition, multiplication par un scalaire, transposée.md",
-    "ba1-EPFL/MATH-111/notes/01.8 Système homogènes.md",
-    "ba1-EPFL/MATH-111/notes/01.7 Résolution de systèmes linéaires.md",
     "ba1-EPFL/images/Pasted image 20260930105219.png",
     "ba1-EPFL/images/Pasted image 20260916101750.png",
     "PHYS-101",
@@ -233,8 +217,6 @@
     "OLD/CS-107/Pasted image 20251117133401.png",
     "OLD/CS-107/Pasted image 20251103104139.png",
     "OLD/Phys-101/Pasted image 20251113121502.png",
-    "OLD/CS-101/Pasted image 20251007093018.png",
-    "Pasted image 20251010175655.png",
     "Untitled.canvas"
   ]
 }
