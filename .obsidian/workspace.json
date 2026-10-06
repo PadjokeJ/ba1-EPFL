@@ -4,19 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ad386dcf67b9291f",
+        "id": "4b4bcb977a79651f",
         "type": "tabs",
         "children": [
           {
-            "id": "a362d28d9d0173ff",
+            "id": "d06b4acbb8f3b9a3",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "ba1-EPFL/images/Pasted image 20261005114744.png"
+                "file": "ba1-EPFL/MATH-111/Introduction.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20261005114744"
+              "icon": "lucide-file",
+              "title": "Introduction"
             }
           }
         ]
@@ -170,18 +172,21 @@
       "bases:Create new base": false
     }
   },
-  "active": "a362d28d9d0173ff",
+  "active": "d06b4acbb8f3b9a3",
   "lastOpenFiles": [
+    "ba1-EPFL/MATH-111/notes/05.4 D'autres exemples, généralités.md",
+    "ba1-EPFL/MATH-111/notes/05.3 Exemples -- espaces de fonctions.md",
+    "ba1-EPFL/MATH-111/notes/05.1 Applications linéaires d'espaces vectoriels.md",
+    "ba1-EPFL/MATH-111/notes/05.0 Quelques rappels.md",
+    "ba1-EPFL/images/Pasted image 20261005114744.png",
     "ba1-EPFL/images/Pasted image 20261005114341.png",
     "ba1-EPFL/MATH-101/Semaine 5.md",
     "ba1-EPFL/MATH-111/Chapitre 5.md",
-    "05.0 Quelques rappels.md",
     "ba1-EPFL/MATH-111/notes/04.7 La dimension d'un sous-espace.md",
     "ba1-EPFL/MATH-111/Chapitre 4.md",
     "ba1-EPFL/PHYS-101/notes/05.1 Forces -- Réaction d'un support.md",
     "ba1-EPFL/PHYS-101/Semaine 4.md",
     "ba1-EPFL/PHYS-101/notes/05.2 Forces -- Frottement sec.md",
-    "ba1-EPFL/images/Pasted image 20261005114744.png",
     "ba1-EPFL/PHYS-101/notes/04.8 Balistique -- Référentiel en rotation.md",
     "ba1-EPFL/MATH-101/notes/05.3 Suites de Cauchy.md",
     "ba1-EPFL/MATH-101/notes/05.4 Limite supérieure et limite inférieure d'une suite bornée.md",
@@ -197,8 +202,6 @@
     "ba1-EPFL/MATH-111/notes/03.6 La somme de sous-espaces vectoriels.md",
     "ba1-EPFL/MATH-111/notes/03.7 Espace ligne, espace colonne d'une matrice.md",
     "ba1-EPFL/MATH-101/notes/04.3 Limites infinies.md",
-    "ba1-EPFL/MATH-111/notes/01.2 Nombre de solutions d'un système linéaire.md",
-    "ba1-EPFL/PHYS-101/Semaine 1.md",
     "ba1-EPFL/images/Pasted image 20260930105219.png",
     "ba1-EPFL/images/Pasted image 20260916101750.png",
     "PHYS-101",
